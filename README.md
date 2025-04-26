@@ -1,2 +1,2 @@
-# rpi-pico-projects
-Raspberry Pi Pico Projects
+# rpi-projects
+Raspberry Pi Projects
